@@ -1,7 +1,7 @@
 # HBSpecflow
 Add to cart
 
-Selenium grid needs to be working on local "http://192.168.56.1:4444/" for this code to work.
+Selenium grid needs to be working on local "http://192.168.56.1:4444/" for this code to work or the code needs an edit for the grid server.
 
 Ex: java -jar C:\Users\*****\Desktop\grid\selenium-server-4.2.2.jar standalone
 
